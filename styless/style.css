@@ -6,6 +6,7 @@ font-family: 'Kaushan Script', cursive;
 font-family: 'Open Sans', sans-serif;
 font-family: 'Open Sans', sans-serif;
 }
+/* Banner part start style */
 #banner{
   background-image: url('../images/banner/banner2.png');
   background-repeat: no-repeat;
@@ -45,6 +46,9 @@ a {
   text-decoration: none;
   text-align: center;
 }
+/* Banner part End style */
+
+/* Failure part start style */
 #failure {
   margin-bottom: 150px;
 }
@@ -81,6 +85,9 @@ font-weight: 400;
 line-height: 26px;
 margin-top: 15px;
 }
+/* Failure part End style */
+
+/* Plan part start style */
 #my-plan{
   margin-bottom: 100px;
 }
@@ -122,6 +129,9 @@ margin-top: 15px;
   width: 1200px;
   margin: 0 auto;
 }
+/* Plan part End style */
+
+/* Banner two start style */
 .banner-two-content{
   background-image: url('../images/watch.png');
   background-repeat: no-repeat;
@@ -145,6 +155,9 @@ text-align: center;
 font-size: 20px;
 font-weight: 600;
 }
+/* Banner two start style */
+
+/* Footer part start style */
 footer{
   background-color: black;
   padding: 130px 230px;
@@ -219,3 +232,4 @@ form button {
   font-size: 20px;
   font-weight: 600;
 }
+/* Footer part start style */
